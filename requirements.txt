@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+matplotlib
+numpy
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pillow
